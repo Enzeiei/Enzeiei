@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Henshin+Device;Kabuto+Zecter;TheBee%20|%20Gatack%20|%S20asword+Drake;bleh%20|%20AI%20|%20ML%20Applications;Always%20transforming...%20for%20now.&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Henshin+Device;Kabuto+Zecter;TheBee%20|%20Gatack%20|%20Sasword+Drake;bleh%20|%20AI%20|%20ML%20Applications;Always%20transforming...%20for%20now.&center=true&width=380&height=45">
 	</a>
 </p>
 
