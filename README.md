@@ -7,9 +7,9 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
+💻 I am developing my skills as a Fullstack Developer | Enthuastic about new technologies
 📚 Working towards a Bachelors in Computer Science
-📝 I have a strong interest in building Frontend Uis for ML applications
+📝 I have a strong interest in studying databases and PostgreSQL
 🌱 Focusing on optimising tournament runtime
 🌟 Main languages: Python, C, Java
 🚩 Interested in Full Stack Machine Learning Application development
